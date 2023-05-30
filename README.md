@@ -10,6 +10,7 @@ I my career I have participated in a project where I was able to test software a
 
 ## Courses
 Zostań Testerem Manualnym from DareIT
+
 6-day HTML/CSS Marathon from GoIT
 
 ## Certificates
