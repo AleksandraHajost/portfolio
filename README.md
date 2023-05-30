@@ -1,21 +1,21 @@
-# portfolio
+# pMy portfolio
 
-About me
+# About me
 My name is Aleksandra Hajost. I am a logistician and marketing specialist. I graduated from Warsaw University of Life Sciences in Warsaw, Poland. I have recently embarked on a career change journey in order to become a Software Tester. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 
-My experience
+## My experience
 
 My previous experience varies from marketing assistance to marketing specialist at an agricultural company.
 I my career I have participated in a project where I was able to test software as a user. It was the initial phase of application development, which has not yet entered the market. I did not have any test cases or scenarios prepared, I have been following processes and using my experience from the course. Bugs found by me as well as my suggestions for app was reported to project member during our sessions.
 
-Courses
+## Courses
 Zostań Testerem Manualnym from DareIT
 6-day HTML/CSS Marathon from GoIT
 
-Certificates
+## Certificates
 In preparation for the ISTQB certification
 
-Tools
+## Tools
 Jira - bug tracker
 TestRail - test cases management
 Slack - for communication within the team
@@ -24,14 +24,14 @@ GitHub
 MySQL - relational database management system
 HTML/CSS
 
-Tech skills
+## Tech skills
 SQL
 DevTools
 Software testing
 Creating test cases
 Reporting bugs
 
-My projects
+## My projects
 Bugs
 ...
 
@@ -46,17 +46,17 @@ I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day 
 
 LINK to my tester CV made during Marathon: .......
 
-Books
+## Books
 ...
 
-Groups on Facebook
+## Groups on Facebook
 ...
 
-Recommended blogs
+## Recommended blogs
 ...
 
-Webinars
+## Webinars
 ...
 
-Articles
+### Articles
 ...
