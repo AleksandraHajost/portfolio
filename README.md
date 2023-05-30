@@ -18,18 +18,28 @@ In preparation for the ISTQB certification
 
 ## Tools
 Jira - bug tracker
+
 TestRail - test cases management
+
 Slack - for communication within the team
+
 Chrome DevTools - for testing and to improve bug reports
+
 GitHub
+
 MySQL - relational database management system
+
 HTML/CSS
 
 ## Tech skills
 SQL
+
 DevTools
+
 Software testing
+
 Creating test cases
+
 Reporting bugs
 
 ## My projects
