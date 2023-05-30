@@ -2,6 +2,7 @@
 
 # About me
 My name is Aleksandra Hajost. I am a logistician and marketing specialist. I graduated from Warsaw University of Life Sciences in Warsaw, Poland. I have recently embarked on a career change journey in order to become a Software Tester. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+__[My profile on LinkedIn](https://www.linkedin.com/in/aleksandra-hajost/)__
 
 ## My experience
 
@@ -26,6 +27,8 @@ Slack - for communication within the team
 Chrome DevTools - for testing and to improve bug reports
 
 GitHub
+
+xampp
 
 MySQL - relational database management system
 
