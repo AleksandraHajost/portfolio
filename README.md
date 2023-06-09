@@ -46,6 +46,14 @@ Creating test cases
 
 Reporting bugs
 
+Exploratory testing
+
+Going through test scenarios
+
+Ad Hoc tests
+
+Simulating a user persona
+
 ## My projects
 Bugs
 ...
