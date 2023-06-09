@@ -15,7 +15,7 @@ I my career I have participated in a project where I was able to test software a
 - 6-day HTML/CSS Marathon from GoIT
 
 ## Certificates
-In preparation for the ISTQB certification
+- In preparation for the ISTQB certification
 
 ## Tools
 - Jira - bug tracker
