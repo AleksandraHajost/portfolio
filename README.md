@@ -13,6 +13,7 @@ I my career I have participated in a project where I was able to test software a
 ## Courses
 - Zostań Testerem Manualnym from DareIT
 - 6-day HTML/CSS Marathon from GoIT
+- [SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
 ## Certificates
 - In preparation for the ISTQB certification
@@ -24,7 +25,7 @@ I my career I have participated in a project where I was able to test software a
 - Slack - for communication within the team
 - Chrome DevTools - for testing and to improve bug reports
 - GitHub
-- xampp
+- xampp - for web application testing
 - MySQL - relational database management system
 - HTML/CSS
 
