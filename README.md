@@ -16,6 +16,7 @@ I my career I have participated in a project where I was able to test software a
 
 ## Certificates
 - In preparation for the ISTQB certification
+-  
 
 ## Tools
 - Jira - bug tracker
