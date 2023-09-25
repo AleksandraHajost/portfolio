@@ -40,6 +40,9 @@ I my career I have participated in a project where I was able to test software a
 - Ad Hoc tests
 - Simulating a user persona
 
+## Soft skills
+- 
+
 ## My projects
 Bugs
 ...
