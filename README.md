@@ -41,7 +41,7 @@ I my career I have participated in a project where I was able to test software a
 - Simulating a user persona
 
 ## Soft skills
-- 
+- dfgdfg
 
 ## My projects
 Bugs
