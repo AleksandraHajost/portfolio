@@ -69,6 +69,4 @@ LINK to my tester CV made during Marathon: .......
 ### Articles
 - ...
 
-<a href="# My portfolio">Powrót do góry strony</a>
-
-<a href="#" title="Do góry!">[ &uarr; ]</a>
+<a href="#" title="Do góry!">Zabierz mnie na górę!</a>
